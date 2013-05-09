@@ -1,9 +1,9 @@
-gurpsCalculator
+ï»¿gurpsCalculator
 ===============
 
 Pour ignorer un fichier/dossier :
-Créer un fichier .gitignore et y mettre les path relatifs des choses à exclure.
+CrÃ©er un fichier .gitignore et y mettre les path relatifs des choses Ã  exclure.
 
-Remarque : pour créer ce fichier sous windows, il faut passer par un éditeur de texte (style notepad++) sinon cet OS d'assistés braille parce que le fichier "n'a pas de nom"...
+Remarque : pour crÃ©er ce fichier sous windows, il faut passer par un Ã©diteur de texte (style notepad++) sinon cet OS d'assistÃ©s braille parce que le fichier "n'a pas de nom"...
 
-Remarque 2 : Supprimer le truc à propos de .gitignore plus tard.
+Remarque 2 : Supprimer le truc Ã  propos de .gitignore plus tard.
