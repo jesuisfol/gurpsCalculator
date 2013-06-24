@@ -4,5 +4,10 @@ import java.util.HashSet;
 
 public class Environment
 {
-	private HashSet<Character> _characterSet;
+	private GurpsCharacter[] _gurpsCharacterSet;
+
+	public void doAttack(GurpsCharacter attacker, GurpsCharacter defender) {
+
+		return;
+	}
 }
